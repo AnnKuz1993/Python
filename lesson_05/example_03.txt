@@ -1,0 +1,12 @@
+Ivanov 23543.12
+Petrov 13749.32
+Korshunov 32154.15
+Kovalev 41254.00
+Tarakanov 18245.50
+Muravyeva 17546.44
+Musiniva 54658.74
+Kurashov 65245.00
+Lyamkin 35245.00
+Kuznecova 42000.50
+
+
